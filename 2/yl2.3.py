@@ -10,7 +10,6 @@ else:
 
 training_id = int(input("Sisestage treeningu tüüp (1 - tervisetreening, 2 - põhivastupidavuse treening, 3 - intensiivne aeroobne treening): "))
 
-
 if training_id == 1:
 	min_pulserate = 0.50
 	max_pulserate = 0.70
