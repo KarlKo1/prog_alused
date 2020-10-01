@@ -8,4 +8,4 @@ while (kord <= kordamine):
     #ärata
     print("Tõuse ja sära")
     #suurenda juhtimismuutuja väärtus 1 võrra
-    kord += 1 #kord = kord + 1
+    kord += 1
